@@ -1,0 +1,9 @@
+http://news.yahoo.co.jp/pickup/rss.xml
+http://news.yahoo.co.jp/pickup/world/rss.xml
+http://news.yahoo.co.jp/pickup/entertainment/rss.xml
+http://news.yahoo.co.jp/pickup/computer/rss.xml
+http://news.yahoo.co.jp/pickup/local/rss.xml
+http://news.yahoo.co.jp/pickup/domestic/rss.xml
+http://news.yahoo.co.jp/pickup/economy/rss.xml
+http://news.yahoo.co.jp/pickup/sports/rss.xml
+http://news.yahoo.co.jp/pickup/science/rss.xml
